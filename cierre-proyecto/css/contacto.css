@@ -1,0 +1,21 @@
+.formularioContacto{
+    text-align: center;
+}
+label, input, select, textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+textarea{
+    resize: none;
+}
+#boton{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+#boton:hover{
+    color: green;
+    background-color: white;
+    text-transform: uppercase;
+    border: solid green 2px;
+}

@@ -1,0 +1,24 @@
+/*Aplicando CSS de forma Externa*/
+ul{
+    color: tomato;
+}
+body{
+    background-color: paleturquoise;
+}
+/*Selector Clase*/
+.titulo{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+}
+/*Selector de ID*/
+#subtitulo{
+    color: red;
+}
+.principal{
+    color: #90e0ef;
+    background-color: rgba(0,0,0, 0.6);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}

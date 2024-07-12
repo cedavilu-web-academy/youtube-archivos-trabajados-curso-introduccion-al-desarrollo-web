@@ -1,0 +1,17 @@
+/*Aplicando CSS de forma Externa*/
+ul{
+    color: tomato;
+}
+body{
+    background-color: paleturquoise;
+}
+/*Selector Clase*/
+.titulo{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+}
+/*Selector de ID*/
+#subtitulo{
+    color: red;
+}
